@@ -1,0 +1,21 @@
+
+.counter {
+  font-size: 200px;
+}
+.counter_cont {
+  display: flex;
+  align-items:center;
+  justify-content: center;
+}
+.btn_cont {
+  display: flex;
+  /* justify-content: space-between; */
+  justify-content: center;
+}
+button {
+  background-color: rgb(94, 175, 255);
+  font-size: 25px;
+  width: 10%;
+  border-radius: 5px;
+  cursor: pointer;
+}
